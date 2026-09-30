@@ -144,6 +144,7 @@ window.PROJECTS = {
       {
         "type": "video",
         "src": "../assets/videos/pressure-sensor-printing.webm",
+        "muted": true,
         "caption": "Screen-printing process used to deposit electrodes and the resistive layer onto the substrates."
       },
       {
@@ -360,9 +361,9 @@ window.PROJECTS = {
       },
       {
         "type": "image",
-        "src": "../assets/images/ski-cover.webp",
-        "alt": "Grooved concrete skis with steel mounts",
-        "caption": "Grooved sliding surfaces and steel mounting frames on the finished skis."
+        "src": "../assets/images/ski-team-completed.jpg",
+        "alt": "Two team members holding completed concrete skis in the workshop",
+        "caption": "Team members with the completed concrete skis, showing the grooved sliding surface and reinforced mounting side."
       }
     ],
     "approachTitle": "Using several materials where each performs best",
